@@ -1,4 +1,4 @@
-just-a-test
-===========
+Style Guide Draft
+=================
 
-just a test for github page
+It takes a day to learn and a lifetime to master.
